@@ -1,0 +1,9 @@
+Package: com.ryannair05.tempusromanum
+Name: Tempus Romānum
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Show the time in Roman Numerals
+Maintainer: Ryan Nair
+Author: Ryan Nair
+Section: Tweaks
